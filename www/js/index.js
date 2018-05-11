@@ -35,7 +35,7 @@ var app = {
     onDeviceReady: function() {
         //app.receivedEvent('deviceready');
 
-        var ref = window.open('http://m.ofertasdeapuestas.es/', '_blank', 'location=no,zoom=no,toolbar=no');
+        var ref = window.open('http://soyhombrealfa.com/', '_blank', 'location=no,zoom=no,toolbar=no');
 
        
     },
